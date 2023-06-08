@@ -1,7 +1,7 @@
 # FutureSavers
 Preliminary prototype of retirement savings planner
 
-Based on https://github.com/krishjainx/hoyahacks23
+
 *made for hoyahacks23
 
 *Inspiration*: 
